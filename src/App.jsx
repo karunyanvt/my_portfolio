@@ -6,7 +6,7 @@ import About from './Components/about/About';
 import Skills from './Components/skills/Skills';
 // import Services from './Components/services/Services';
 import Qualification from './Components/qualification/Qualification';
-import Work from './Components/work/work';
+import Work from './Components/work/Work';
 import Contact from './Components/contact/Contact';
 import Footer from './Components/footer/Footer';
 import ScrollUp from './Components/scrollup/ScrollUp';
