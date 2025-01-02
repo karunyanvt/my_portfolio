@@ -93,6 +93,10 @@
     .skills__box {
         column-gap: 1rem;
     }
+
+    .skills__name {
+        font-size: var(--smaller-font-size);
+    }
 }
 
 /* Extra small screens (max-width: 350px) */
